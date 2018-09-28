@@ -1,10 +1,10 @@
 const commons = require('./commons');
 
 const leaked = (arg) => {
-  if (commons.indexOf(arg) === -1) {
-    return false;
+  if (commons[arg]) {
+    return true;
   }
-  return true;
+  return false;
 };
 
 module.exports = leaked;

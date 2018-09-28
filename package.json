@@ -1,6 +1,6 @@
 {
   "name": "leaked",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Affirms that a password is not common enough",
   "main": "leaked.js",
   "scripts": {

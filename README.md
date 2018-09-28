@@ -2,7 +2,7 @@
 
 ## Affirms that a password is not common enough
 
-leaked is a zero-dependancy NPM module that affirms that a password is not one of the most common ones!
+leaked is a zero-dependancy NPM module that affirms that a password is not one of the most common ones! :)
 
 ### Installation
 

@@ -12,14 +12,6 @@ leaked requires [Node.js](https://nodejs.org/) v6+ to run.
 $ npm install leaked
 ```
 
-### Installation
-
-leaked requires [Node.js](https://nodejs.org/) v6+ to run.
-
-```sh
-$ npm install leaked
-```
-
 ### Usage
 
 ``` javascript
